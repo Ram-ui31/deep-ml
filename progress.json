@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:06.862Z",
+  "generated_at": "2026-10-16T09:03:09.159Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -26,6 +26,58 @@
       "last_pushed_at": "2026-05-21T20:24:26.087Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-05-22T14:43:23.784Z",
+      "last_pushed_at": "2026-05-22T14:43:23.784Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-05-22T14:55:20.060Z",
+      "last_pushed_at": "2026-05-22T14:55:20.060Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-05-22T15:30:56.466Z",
+      "last_pushed_at": "2026-05-22T15:30:56.466Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-05-22T16:08:09.234Z",
+      "last_pushed_at": "2026-05-22T16:08:09.234Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

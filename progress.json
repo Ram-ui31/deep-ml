@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:09.159Z",
+  "generated_at": "2026-10-16T09:03:11.323Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -78,6 +78,45 @@
       "last_pushed_at": "2026-05-22T16:08:09.234Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-05-24T00:46:49.979Z",
+      "last_pushed_at": "2026-05-24T00:46:49.979Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-05-24T17:49:00.956Z",
+      "last_pushed_at": "2026-05-24T17:49:00.956Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-05-24T18:21:27.397Z",
+      "last_pushed_at": "2026-05-24T18:21:27.397Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

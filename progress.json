@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:11.323Z",
+  "generated_at": "2026-10-16T09:03:13.722Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -115,6 +115,45 @@
       "path": "problems/0356-label-encoding-for-ordinal-variables",
       "first_solved_at": "2026-05-24T18:21:27.397Z",
       "last_pushed_at": "2026-05-24T18:21:27.397Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-05-25T00:46:14.684Z",
+      "last_pushed_at": "2026-05-25T00:46:14.684Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-05-25T16:59:22.677Z",
+      "last_pushed_at": "2026-05-25T16:59:22.677Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2026-05-25T17:19:27.046Z",
+      "last_pushed_at": "2026-05-25T17:19:27.046Z",
       "language": "python",
       "lines": 24
     }

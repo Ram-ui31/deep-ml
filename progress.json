@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:15.766Z",
+  "generated_at": "2026-10-16T09:03:18.684Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -260,6 +260,123 @@
       "last_pushed_at": "2026-05-26T20:26:21.234Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:122": {
+      "kind": "problem",
+      "id": "122",
+      "title": "Policy Gradient with REINFORCE",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/122",
+      "path": "problems/0122-policy-gradient-with-reinforce",
+      "first_solved_at": "2026-06-22T05:29:12.903Z",
+      "last_pushed_at": "2026-06-22T05:29:12.903Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2026-06-22T16:23:56.316Z",
+      "last_pushed_at": "2026-06-22T16:23:56.316Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-06-22T16:44:39.674Z",
+      "last_pushed_at": "2026-06-22T16:44:39.674Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2026-06-22T17:13:05.672Z",
+      "last_pushed_at": "2026-06-22T17:13:05.672Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-06-22T17:47:32.431Z",
+      "last_pushed_at": "2026-06-22T17:47:32.431Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2026-06-22T17:57:31.075Z",
+      "last_pushed_at": "2026-06-22T17:57:31.075Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:226": {
+      "kind": "problem",
+      "id": "226",
+      "title": "Pass@k and Majority Voting Evaluation Metrics",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/226",
+      "path": "problems/0226-pass-k-and-majority-voting-evaluation-metrics",
+      "first_solved_at": "2026-06-22T18:21:13.427Z",
+      "last_pushed_at": "2026-06-22T18:21:13.427Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:257": {
+      "kind": "problem",
+      "id": "257",
+      "title": "Compute Temporal Difference Error",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/257",
+      "path": "problems/0257-compute-temporal-difference-error",
+      "first_solved_at": "2026-06-22T18:31:31.547Z",
+      "last_pushed_at": "2026-06-22T18:31:31.547Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:158": {
+      "kind": "problem",
+      "id": "158",
+      "title": "Epsilon-Greedy Action Selection for n-Armed Bandit",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/158",
+      "path": "problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit",
+      "first_solved_at": "2026-06-22T20:16:33.241Z",
+      "last_pushed_at": "2026-06-22T20:16:33.241Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:18.684Z",
+  "generated_at": "2026-10-16T09:03:21.542Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -377,6 +377,84 @@
       "last_pushed_at": "2026-06-22T20:16:33.241Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:224": {
+      "kind": "problem",
+      "id": "224",
+      "title": "Group Relative Advantage for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/224",
+      "path": "problems/0224-group-relative-advantage-for-grpo",
+      "first_solved_at": "2026-06-23T03:59:49.433Z",
+      "last_pushed_at": "2026-06-23T03:59:49.433Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:488": {
+      "kind": "problem",
+      "id": "488",
+      "title": "Reward Model Validation Accuracy",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/488",
+      "path": "problems/0488-reward-model-validation-accuracy",
+      "first_solved_at": "2026-06-23T16:30:12.286Z",
+      "last_pushed_at": "2026-06-23T16:30:12.286Z",
+      "language": "python",
+      "lines": 57
+    },
+    "problem:509": {
+      "kind": "problem",
+      "id": "509",
+      "title": "Optimistic Initialization for Exploration",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/509",
+      "path": "problems/0509-optimistic-initialization-for-exploration",
+      "first_solved_at": "2026-06-23T19:44:19.345Z",
+      "last_pushed_at": "2026-06-23T19:44:19.345Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:542": {
+      "kind": "problem",
+      "id": "542",
+      "title": "Build a Multi-Armed Bandit Testbed",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/542",
+      "path": "problems/0542-build-a-multi-armed-bandit-testbed",
+      "first_solved_at": "2026-06-23T20:34:13.426Z",
+      "last_pushed_at": "2026-06-23T20:34:13.426Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:543": {
+      "kind": "problem",
+      "id": "543",
+      "title": "Estimate Action Values Using Sample Averaging",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/543",
+      "path": "problems/0543-estimate-action-values-using-sample-averaging",
+      "first_solved_at": "2026-06-23T20:52:44.472Z",
+      "last_pushed_at": "2026-06-23T20:52:44.472Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:545": {
+      "kind": "problem",
+      "id": "545",
+      "title": "Compare Update Strategies in Policy Evaluation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/545",
+      "path": "problems/0545-compare-update-strategies-in-policy-evaluation",
+      "first_solved_at": "2026-06-23T21:28:47.475Z",
+      "last_pushed_at": "2026-06-23T21:28:47.475Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }

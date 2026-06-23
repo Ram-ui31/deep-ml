@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,13 +12,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Build a Multi-Armed Bandit Testbed](https://www.deep-ml.com/problems/542) | easy | 2026-06-23 | [solution](problems/0542-build-a-multi-armed-bandit-testbed) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-05-22 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-05-22 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-06-22 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
+| [Compare Update Strategies in Policy Evaluation](https://www.deep-ml.com/problems/545) | easy | 2026-06-23 | [solution](problems/0545-compare-update-strategies-in-policy-evaluation) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-06-22 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-06-22 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-05-26 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-06-23 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-06-22 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-06-23 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-05-26 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-05-25 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-05-26 | [solution](problems/0039-implementation-of-log-softmax-function) |
@@ -28,8 +32,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-05-24 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-05-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-05-24 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [Optimistic Initialization for Exploration](https://www.deep-ml.com/problems/509) | easy | 2026-06-23 | [solution](problems/0509-optimistic-initialization-for-exploration) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-06-22 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-21 | [solution](problems/0003-reshape-matrix) |
+| [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-06-23 | [solution](problems/0488-reward-model-validation-accuracy) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-22 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-05-26 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-05-26 | [solution](problems/0024-single-neuron) |

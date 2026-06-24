@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:21.542Z",
+  "generated_at": "2026-10-16T09:03:23.993Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -455,6 +455,45 @@
       "last_pushed_at": "2026-06-23T21:28:47.475Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:225": {
+      "kind": "problem",
+      "id": "225",
+      "title": "KL Divergence Estimator for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/225",
+      "path": "problems/0225-kl-divergence-estimator-for-grpo",
+      "first_solved_at": "2026-06-24T00:48:30.686Z",
+      "last_pushed_at": "2026-06-24T00:48:30.686Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:466": {
+      "kind": "problem",
+      "id": "466",
+      "title": "Optimal Policy Extraction from Q-Values",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/466",
+      "path": "problems/0466-optimal-policy-extraction-from-q-values",
+      "first_solved_at": "2026-06-24T02:10:29.904Z",
+      "last_pushed_at": "2026-06-24T02:10:29.904Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:554": {
+      "kind": "problem",
+      "id": "554",
+      "title": "Unified Task Handler for Multi-Task RL Agent",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/554",
+      "path": "problems/0554-unified-task-handler-for-multi-task-rl-agent",
+      "first_solved_at": "2026-06-24T02:44:50.908Z",
+      "last_pushed_at": "2026-06-24T02:44:50.908Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

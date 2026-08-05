@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 38 problems · 0 labs · 0 math
+**43** solved · 43 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-05-26 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-06-23 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-06-22 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-08-05 | [solution](problems/1103-filter-rows-with-where) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-06-23 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-05-26 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-05-25 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
@@ -36,12 +37,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-06-24 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
 | [Optimistic Initialization for Exploration](https://www.deep-ml.com/problems/509) | easy | 2026-06-23 | [solution](problems/0509-optimistic-initialization-for-exploration) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-06-22 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
+| [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-08-05 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-21 | [solution](problems/0003-reshape-matrix) |
 | [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-06-23 | [solution](problems/0488-reward-model-validation-accuracy) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-22 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-08-05 | [solution](problems/1101-select-all-rows) |
+| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-08-05 | [solution](problems/1102-select-specific-columns) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-05-26 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-05-26 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-05-26 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-08-05 | [solution](problems/1104-sort-results-with-order-by) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-05-21 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Unified Task Handler for Multi-Task RL Agent](https://www.deep-ml.com/problems/554) | easy | 2026-06-24 | [solution](problems/0554-unified-task-handler-for-multi-task-rl-agent) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-06-22 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |

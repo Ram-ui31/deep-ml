@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:03:30.465Z",
+  "generated_at": "2026-10-16T09:03:33.009Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -585,6 +585,28 @@
       "last_pushed_at": "2026-08-12T10:32:17.526Z",
       "language": "python",
       "lines": 26
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-08-24T10:49:33.618Z",
+      "last_pushed_at": "2026-08-24T10:49:33.618Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-08-24T10:50:23.311Z",
+      "last_pushed_at": "2026-08-24T10:50:23.311Z"
     }
   }
 }

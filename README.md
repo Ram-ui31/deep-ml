@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 45 problems · 0 labs · 0 math
+**47** solved · 45 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-05-25 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-05-26 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-06-22 | [solution](problems/0122-policy-gradient-with-reinforce) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-24 | [solution](math/0007-vector-operations) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-08-24 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
